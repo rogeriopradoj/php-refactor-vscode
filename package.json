@@ -43,7 +43,7 @@
         "@types/mocha": "^2.2.42"
     },
     "dependencies": {
-        "vscode": "^1.1.21",
-        "php-parser": "^3.0.0-prerelease.5"
+        "php-parser": "^3.0.0-prerelease.5",
+        "vscode": "^1.1.33"
     }
 }
