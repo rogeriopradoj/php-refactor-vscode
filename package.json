@@ -8,7 +8,7 @@
         "vscode": "^1.28.0"
     },
     "repository": "https://github.com/rogeriopradoj/php-refactor-vscode",
-    "icon": "https://raw.githubusercontent.com/rogeriopradoj/php-refactor-vscode/master/logo.jpg",
+    "icon": "logo.jpg",
     "categories": [
         "Other"
     ],
