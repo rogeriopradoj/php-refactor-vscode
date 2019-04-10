@@ -1,14 +1,14 @@
 {
     "name": "php-refactor",
     "displayName": "PHP Refactor",
-    "description": "Helper tool to leverage your works as refactoring PHP code",
-    "version": "0.0.6",
-    "publisher": "tintrinh",
+    "description": "Helper tool to leverage your works as refactoring PHP code - Fork from @tintrinh",
+    "version": "0.0.1",
+    "publisher": "rogeriopradoj",
     "engines": {
         "vscode": "^1.28.0"
     },
-    "repository": "https://github.com/hungtin/php-refactor-vscode",
-    "icon": "logo.jpg",
+    "repository": "https://github.com/rogeriopradoj/php-refactor-vscode",
+    "icon": "https://raw.githubusercontent.com/rogeriopradoj/php-refactor-vscode/master/logo.jpg",
     "categories": [
         "Other"
     ],
