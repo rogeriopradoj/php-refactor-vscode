@@ -22,7 +22,7 @@ function handleExtractFunctionEvent(handler: (text: string)=>string) {
                 builder.replace(selection, code);
             } catch (error) {
                 console.log(error);
-                vscode.window.showErrorMessage("選んだコード部分はシンタックスエラーです");
+                vscode.window.showErrorMessage("The selected code part is a syntax error");
             }
 
         });
